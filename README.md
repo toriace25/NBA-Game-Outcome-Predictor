@@ -1,4 +1,4 @@
-# NBA-Game-Outcome-Predictor
+# NBA Game Outcome Predictor
 
 This program predicts the results of NBA games based on past team statistics and results. The file data_processing.py
 contains all the necessary functions needed to collect statistics for the training dataset and future games. The file
